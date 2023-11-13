@@ -1,0 +1,312 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.09.2019 14:24:37
+
+newmtl blackplast
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1529 0.1529 0.1529
+	Kd 0.1529 0.1529 0.1529
+	Ks 0.3600 0.3600 0.3600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\black.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\black.png
+
+newmtl Chrome
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9098 0.9098 0.9098
+	Kd 0.9098 0.9098 0.9098
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\water_texture_2.jpg
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\water_texture_2.jpg
+
+newmtl sticker
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo.dds
+
+newmtl Material__9570
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo3.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo3.png
+
+newmtl stuf
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\stuf1.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\stuf1.png
+
+newmtl blackplast1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2157 0.2157 0.2157
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\???????????\2Escalade\0Texture\black1.png
+	map_Kd E:\???????????\2Escalade\0Texture\black1.png
+
+newmtl Material__9571
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\logo.dds
+
+newmtl Material__6873
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__7582
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\plastinter3.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\plastinter3.dds
+
+newmtl tyre
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sidewall.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sidewall.dds
+
+newmtl Material__7388
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\12.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\12.dds
+
+newmtl Material__9457
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__7548
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\met1.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\met1.dds
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl inter01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\bodypaint.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\bodypaint.png
+
+newmtl logo
+	Ns 10.0000
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.1333 0.1333 0.1333
+	Kd 0.1333 0.1333 0.1333
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__7390
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\plastinter1.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\plastinter1.dds
+
+newmtl Material__12186
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\1.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\1.dds
+
+newmtl default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9686 0.9686 0.9686
+	Kd 0.9686 0.9686 0.9686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.1937 0.1937 0.1937
+
+newmtl Material__7389
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\tree.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\tree.dds
+
+newmtl Material__12163
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\14.dds
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\14.dds
+
+newmtl frlight
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sub_light.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sub_light.png
+
+newmtl tree
+	Ns 10.0000
+	Ni 1.5000
+	d 0.7000
+	Tr 0.3000
+	Tf 0.7000 0.7000 0.7000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sub_light.png
+	map_Kd C:\Users\shady\Downloads\????? ????? (47)\????? ????? (2)\sub_light.png
